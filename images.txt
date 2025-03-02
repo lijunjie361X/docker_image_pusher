@@ -7,4 +7,4 @@ xhofe/alist:latest
 python:3.10-alpine
 bitnami/redis:7.4.2
 bitnami/mysql:8.0.38
-
+bitnami/mysql:8.4.3
