@@ -9,3 +9,4 @@ bitnami/redis:7.4.2
 mysql:8.0.38
 bitnami/mysql:5.7.43
 bitnami/wordpress:latest
+bitnami/mariadb:11.7
