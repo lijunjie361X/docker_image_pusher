@@ -8,3 +8,4 @@ python:3.10-alpine
 bitnami/redis:7.4.2
 mysql:8.0.38
 bitnami/mysql:5.7.43
+bitnami/wordpress:latest
